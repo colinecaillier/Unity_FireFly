@@ -1,0 +1,894 @@
+fileFormatVersion: 2
+guid: e6c341a0f0631409cb32ae9e0d1ec6eb
+timeCreated: 1481118338
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 1
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000
+  assetHash:
+    serializedVersion: 2
+    Hash: b003f3e6c46b4e98a03f9d34ad41a2de
+  longitude: 2.333
+  latitude: 48.867
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -13.118105, y: 12.999296, z: 9.623725}
+      lookAt: {x: 2.3157973, y: 13.133214, z: 6.766868}
+      up: {x: -0.008389094, y: 0.99996364, z: 0.0015528435}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Fleur
+    100002: Fleur 1
+    100004: Fleur 10
+    100006: Fleur 100
+    100008: Fleur 101
+    100010: Fleur 102
+    100012: Fleur 103
+    100014: Fleur 104
+    100016: Fleur 105
+    100018: Fleur 106
+    100020: Fleur 107
+    100022: Fleur 108
+    100024: Fleur 109
+    100026: Fleur 11
+    100028: Fleur 110
+    100030: Fleur 111
+    100032: Fleur 112
+    100034: Fleur 113
+    100036: Fleur 114
+    100038: Fleur 115
+    100040: Fleur 116
+    100042: Fleur 117
+    100044: Fleur 118
+    100046: Fleur 119
+    100048: Fleur 12
+    100050: Fleur 120
+    100052: Fleur 121
+    100054: Fleur 122
+    100056: Fleur 123
+    100058: Fleur 124
+    100060: Fleur 125
+    100062: Fleur 126
+    100064: Fleur 127
+    100066: Fleur 128
+    100068: Fleur 129
+    100070: Fleur 13
+    100072: Fleur 130
+    100074: Fleur 131
+    100076: Fleur 132
+    100078: Fleur 133
+    100080: Fleur 134
+    100082: Fleur 135
+    100084: Fleur 136
+    100086: Fleur 137
+    100088: Fleur 138
+    100090: Fleur 139
+    100092: Fleur 14
+    100094: Fleur 140
+    100096: Fleur 141
+    100098: Fleur 142
+    100100: Fleur 143
+    100102: Fleur 144
+    100104: Fleur 145
+    100106: Fleur 146
+    100108: Fleur 147
+    100110: Fleur 148
+    100112: Fleur 149
+    100114: Fleur 15
+    100116: Fleur 150
+    100118: Fleur 151
+    100120: Fleur 152
+    100122: Fleur 153
+    100124: Fleur 154
+    100126: Fleur 155
+    100128: Fleur 156
+    100130: Fleur 157
+    100132: Fleur 158
+    100134: Fleur 159
+    100136: Fleur 16
+    100138: Fleur 160
+    100140: Fleur 161
+    100142: Fleur 162
+    100144: Fleur 163
+    100146: Fleur 164
+    100148: Fleur 165
+    100150: Fleur 166
+    100152: Fleur 167
+    100154: Fleur 168
+    100156: Fleur 169
+    100158: Fleur 17
+    100160: Fleur 170
+    100162: Fleur 171
+    100164: Fleur 172
+    100166: Fleur 173
+    100168: Fleur 174
+    100170: Fleur 175
+    100172: Fleur 176
+    100174: Fleur 177
+    100176: Fleur 178
+    100178: Fleur 179
+    100180: Fleur 18
+    100182: Fleur 180
+    100184: Fleur 19
+    100186: Fleur 2
+    100188: Fleur 20
+    100190: Fleur 21
+    100192: Fleur 22
+    100194: Fleur 23
+    100196: Fleur 24
+    100198: Fleur 25
+    100200: Fleur 26
+    100202: Fleur 27
+    100204: Fleur 28
+    100206: Fleur 29
+    100208: Fleur 3
+    100210: Fleur 30
+    100212: Fleur 31
+    100214: Fleur 32
+    100216: Fleur 33
+    100218: Fleur 34
+    100220: Fleur 35
+    100222: Fleur 36
+    100224: Fleur 37
+    100226: Fleur 38
+    100228: Fleur 39
+    100230: Fleur 4
+    100232: Fleur 40
+    100234: Fleur 41
+    100236: Fleur 42
+    100238: Fleur 43
+    100240: Fleur 44
+    100242: Fleur 45
+    100244: Fleur 46
+    100246: Fleur 47
+    100248: Fleur 48
+    100250: Fleur 49
+    100252: Fleur 5
+    100254: Fleur 50
+    100256: Fleur 51
+    100258: Fleur 52
+    100260: Fleur 53
+    100262: Fleur 54
+    100264: Fleur 55
+    100266: Fleur 56
+    100268: Fleur 57
+    100270: Fleur 58
+    100272: Fleur 59
+    100274: Fleur 6
+    100276: Fleur 60
+    100278: Fleur 61
+    100280: Fleur 62
+    100282: Fleur 63
+    100284: Fleur 64
+    100286: Fleur 65
+    100288: Fleur 66
+    100290: Fleur 67
+    100292: Fleur 68
+    100294: Fleur 69
+    100296: Fleur 7
+    100298: Fleur 70
+    100300: Fleur 71
+    100302: Fleur 72
+    100304: Fleur 73
+    100306: Fleur 74
+    100308: Fleur 75
+    100310: Fleur 76
+    100312: Fleur 77
+    100314: Fleur 78
+    100316: Fleur 79
+    100318: Fleur 8
+    100320: Fleur 80
+    100322: Fleur 81
+    100324: Fleur 82
+    100326: Fleur 83
+    100328: Fleur 84
+    100330: Fleur 85
+    100332: Fleur 86
+    100334: Fleur 87
+    100336: Fleur 88
+    100338: Fleur 89
+    100340: Fleur 9
+    100342: Fleur 90
+    100344: Fleur 91
+    100346: Fleur 92
+    100348: Fleur 93
+    100350: Fleur 94
+    100352: Fleur 95
+    100354: Fleur 96
+    100356: Fleur 97
+    100358: Fleur 98
+    100360: Fleur 99
+    100362: Fleur groupe
+    100364: Fleur groupe 1
+    100366: Fleur groupe 2
+    100368: Fleur groupe 3
+    100370: //RootNode
+    100372: Group 130
+    100374: Group 171
+    100376: Group 2
+    100378: Group 213
+    100380: Group 254
+    100382: Group 296
+    100384: Group 337
+    100386: Group 47
+    100388: Group 88
+    100390: Group 43
+    400000: Fleur
+    400002: Fleur 1
+    400004: Fleur 10
+    400006: Fleur 100
+    400008: Fleur 101
+    400010: Fleur 102
+    400012: Fleur 103
+    400014: Fleur 104
+    400016: Fleur 105
+    400018: Fleur 106
+    400020: Fleur 107
+    400022: Fleur 108
+    400024: Fleur 109
+    400026: Fleur 11
+    400028: Fleur 110
+    400030: Fleur 111
+    400032: Fleur 112
+    400034: Fleur 113
+    400036: Fleur 114
+    400038: Fleur 115
+    400040: Fleur 116
+    400042: Fleur 117
+    400044: Fleur 118
+    400046: Fleur 119
+    400048: Fleur 12
+    400050: Fleur 120
+    400052: Fleur 121
+    400054: Fleur 122
+    400056: Fleur 123
+    400058: Fleur 124
+    400060: Fleur 125
+    400062: Fleur 126
+    400064: Fleur 127
+    400066: Fleur 128
+    400068: Fleur 129
+    400070: Fleur 13
+    400072: Fleur 130
+    400074: Fleur 131
+    400076: Fleur 132
+    400078: Fleur 133
+    400080: Fleur 134
+    400082: Fleur 135
+    400084: Fleur 136
+    400086: Fleur 137
+    400088: Fleur 138
+    400090: Fleur 139
+    400092: Fleur 14
+    400094: Fleur 140
+    400096: Fleur 141
+    400098: Fleur 142
+    400100: Fleur 143
+    400102: Fleur 144
+    400104: Fleur 145
+    400106: Fleur 146
+    400108: Fleur 147
+    400110: Fleur 148
+    400112: Fleur 149
+    400114: Fleur 15
+    400116: Fleur 150
+    400118: Fleur 151
+    400120: Fleur 152
+    400122: Fleur 153
+    400124: Fleur 154
+    400126: Fleur 155
+    400128: Fleur 156
+    400130: Fleur 157
+    400132: Fleur 158
+    400134: Fleur 159
+    400136: Fleur 16
+    400138: Fleur 160
+    400140: Fleur 161
+    400142: Fleur 162
+    400144: Fleur 163
+    400146: Fleur 164
+    400148: Fleur 165
+    400150: Fleur 166
+    400152: Fleur 167
+    400154: Fleur 168
+    400156: Fleur 169
+    400158: Fleur 17
+    400160: Fleur 170
+    400162: Fleur 171
+    400164: Fleur 172
+    400166: Fleur 173
+    400168: Fleur 174
+    400170: Fleur 175
+    400172: Fleur 176
+    400174: Fleur 177
+    400176: Fleur 178
+    400178: Fleur 179
+    400180: Fleur 18
+    400182: Fleur 180
+    400184: Fleur 19
+    400186: Fleur 2
+    400188: Fleur 20
+    400190: Fleur 21
+    400192: Fleur 22
+    400194: Fleur 23
+    400196: Fleur 24
+    400198: Fleur 25
+    400200: Fleur 26
+    400202: Fleur 27
+    400204: Fleur 28
+    400206: Fleur 29
+    400208: Fleur 3
+    400210: Fleur 30
+    400212: Fleur 31
+    400214: Fleur 32
+    400216: Fleur 33
+    400218: Fleur 34
+    400220: Fleur 35
+    400222: Fleur 36
+    400224: Fleur 37
+    400226: Fleur 38
+    400228: Fleur 39
+    400230: Fleur 4
+    400232: Fleur 40
+    400234: Fleur 41
+    400236: Fleur 42
+    400238: Fleur 43
+    400240: Fleur 44
+    400242: Fleur 45
+    400244: Fleur 46
+    400246: Fleur 47
+    400248: Fleur 48
+    400250: Fleur 49
+    400252: Fleur 5
+    400254: Fleur 50
+    400256: Fleur 51
+    400258: Fleur 52
+    400260: Fleur 53
+    400262: Fleur 54
+    400264: Fleur 55
+    400266: Fleur 56
+    400268: Fleur 57
+    400270: Fleur 58
+    400272: Fleur 59
+    400274: Fleur 6
+    400276: Fleur 60
+    400278: Fleur 61
+    400280: Fleur 62
+    400282: Fleur 63
+    400284: Fleur 64
+    400286: Fleur 65
+    400288: Fleur 66
+    400290: Fleur 67
+    400292: Fleur 68
+    400294: Fleur 69
+    400296: Fleur 7
+    400298: Fleur 70
+    400300: Fleur 71
+    400302: Fleur 72
+    400304: Fleur 73
+    400306: Fleur 74
+    400308: Fleur 75
+    400310: Fleur 76
+    400312: Fleur 77
+    400314: Fleur 78
+    400316: Fleur 79
+    400318: Fleur 8
+    400320: Fleur 80
+    400322: Fleur 81
+    400324: Fleur 82
+    400326: Fleur 83
+    400328: Fleur 84
+    400330: Fleur 85
+    400332: Fleur 86
+    400334: Fleur 87
+    400336: Fleur 88
+    400338: Fleur 89
+    400340: Fleur 9
+    400342: Fleur 90
+    400344: Fleur 91
+    400346: Fleur 92
+    400348: Fleur 93
+    400350: Fleur 94
+    400352: Fleur 95
+    400354: Fleur 96
+    400356: Fleur 97
+    400358: Fleur 98
+    400360: Fleur 99
+    400362: Fleur groupe
+    400364: Fleur groupe 1
+    400366: Fleur groupe 2
+    400368: Fleur groupe 3
+    400370: //RootNode
+    400372: Group 130
+    400374: Group 171
+    400376: Group 2
+    400378: Group 213
+    400380: Group 254
+    400382: Group 296
+    400384: Group 337
+    400386: Group 47
+    400388: Group 88
+    400390: Group 43
+    2300000: Fleur
+    2300002: Fleur 1
+    2300004: Fleur 10
+    2300006: Fleur 100
+    2300008: Fleur 101
+    2300010: Fleur 102
+    2300012: Fleur 103
+    2300014: Fleur 104
+    2300016: Fleur 105
+    2300018: Fleur 106
+    2300020: Fleur 107
+    2300022: Fleur 108
+    2300024: Fleur 109
+    2300026: Fleur 11
+    2300028: Fleur 110
+    2300030: Fleur 111
+    2300032: Fleur 112
+    2300034: Fleur 113
+    2300036: Fleur 114
+    2300038: Fleur 115
+    2300040: Fleur 116
+    2300042: Fleur 117
+    2300044: Fleur 118
+    2300046: Fleur 119
+    2300048: Fleur 12
+    2300050: Fleur 120
+    2300052: Fleur 121
+    2300054: Fleur 122
+    2300056: Fleur 123
+    2300058: Fleur 124
+    2300060: Fleur 125
+    2300062: Fleur 126
+    2300064: Fleur 127
+    2300066: Fleur 128
+    2300068: Fleur 129
+    2300070: Fleur 13
+    2300072: Fleur 130
+    2300074: Fleur 131
+    2300076: Fleur 132
+    2300078: Fleur 133
+    2300080: Fleur 134
+    2300082: Fleur 135
+    2300084: Fleur 136
+    2300086: Fleur 137
+    2300088: Fleur 138
+    2300090: Fleur 139
+    2300092: Fleur 14
+    2300094: Fleur 140
+    2300096: Fleur 141
+    2300098: Fleur 142
+    2300100: Fleur 143
+    2300102: Fleur 144
+    2300104: Fleur 145
+    2300106: Fleur 146
+    2300108: Fleur 147
+    2300110: Fleur 148
+    2300112: Fleur 149
+    2300114: Fleur 15
+    2300116: Fleur 150
+    2300118: Fleur 151
+    2300120: Fleur 152
+    2300122: Fleur 153
+    2300124: Fleur 154
+    2300126: Fleur 155
+    2300128: Fleur 156
+    2300130: Fleur 157
+    2300132: Fleur 158
+    2300134: Fleur 159
+    2300136: Fleur 16
+    2300138: Fleur 160
+    2300140: Fleur 161
+    2300142: Fleur 162
+    2300144: Fleur 163
+    2300146: Fleur 164
+    2300148: Fleur 165
+    2300150: Fleur 166
+    2300152: Fleur 167
+    2300154: Fleur 168
+    2300156: Fleur 169
+    2300158: Fleur 17
+    2300160: Fleur 170
+    2300162: Fleur 171
+    2300164: Fleur 172
+    2300166: Fleur 173
+    2300168: Fleur 174
+    2300170: Fleur 175
+    2300172: Fleur 176
+    2300174: Fleur 177
+    2300176: Fleur 178
+    2300178: Fleur 179
+    2300180: Fleur 18
+    2300182: Fleur 180
+    2300184: Fleur 19
+    2300186: Fleur 2
+    2300188: Fleur 20
+    2300190: Fleur 21
+    2300192: Fleur 22
+    2300194: Fleur 23
+    2300196: Fleur 24
+    2300198: Fleur 25
+    2300200: Fleur 26
+    2300202: Fleur 27
+    2300204: Fleur 28
+    2300206: Fleur 29
+    2300208: Fleur 3
+    2300210: Fleur 30
+    2300212: Fleur 31
+    2300214: Fleur 32
+    2300216: Fleur 33
+    2300218: Fleur 34
+    2300220: Fleur 35
+    2300222: Fleur 36
+    2300224: Fleur 37
+    2300226: Fleur 38
+    2300228: Fleur 39
+    2300230: Fleur 4
+    2300232: Fleur 40
+    2300234: Fleur 41
+    2300236: Fleur 42
+    2300238: Fleur 43
+    2300240: Fleur 44
+    2300242: Fleur 45
+    2300244: Fleur 46
+    2300246: Fleur 47
+    2300248: Fleur 48
+    2300250: Fleur 49
+    2300252: Fleur 5
+    2300254: Fleur 50
+    2300256: Fleur 51
+    2300258: Fleur 52
+    2300260: Fleur 53
+    2300262: Fleur 54
+    2300264: Fleur 55
+    2300266: Fleur 56
+    2300268: Fleur 57
+    2300270: Fleur 58
+    2300272: Fleur 59
+    2300274: Fleur 6
+    2300276: Fleur 60
+    2300278: Fleur 61
+    2300280: Fleur 62
+    2300282: Fleur 63
+    2300284: Fleur 64
+    2300286: Fleur 65
+    2300288: Fleur 66
+    2300290: Fleur 67
+    2300292: Fleur 68
+    2300294: Fleur 69
+    2300296: Fleur 7
+    2300298: Fleur 70
+    2300300: Fleur 71
+    2300302: Fleur 72
+    2300304: Fleur 73
+    2300306: Fleur 74
+    2300308: Fleur 75
+    2300310: Fleur 76
+    2300312: Fleur 77
+    2300314: Fleur 78
+    2300316: Fleur 79
+    2300318: Fleur 8
+    2300320: Fleur 80
+    2300322: Fleur 81
+    2300324: Fleur 82
+    2300326: Fleur 83
+    2300328: Fleur 84
+    2300330: Fleur 85
+    2300332: Fleur 86
+    2300334: Fleur 87
+    2300336: Fleur 88
+    2300338: Fleur 89
+    2300340: Fleur 9
+    2300342: Fleur 90
+    2300344: Fleur 91
+    2300346: Fleur 92
+    2300348: Fleur 93
+    2300350: Fleur 94
+    2300352: Fleur 95
+    2300354: Fleur 96
+    2300356: Fleur 97
+    2300358: Fleur 98
+    2300360: Fleur 99
+    2300362: //RootNode
+    2300364: Group 2
+    3300000: Fleur
+    3300002: Fleur 1
+    3300004: Fleur 10
+    3300006: Fleur 100
+    3300008: Fleur 101
+    3300010: Fleur 102
+    3300012: Fleur 103
+    3300014: Fleur 104
+    3300016: Fleur 105
+    3300018: Fleur 106
+    3300020: Fleur 107
+    3300022: Fleur 108
+    3300024: Fleur 109
+    3300026: Fleur 11
+    3300028: Fleur 110
+    3300030: Fleur 111
+    3300032: Fleur 112
+    3300034: Fleur 113
+    3300036: Fleur 114
+    3300038: Fleur 115
+    3300040: Fleur 116
+    3300042: Fleur 117
+    3300044: Fleur 118
+    3300046: Fleur 119
+    3300048: Fleur 12
+    3300050: Fleur 120
+    3300052: Fleur 121
+    3300054: Fleur 122
+    3300056: Fleur 123
+    3300058: Fleur 124
+    3300060: Fleur 125
+    3300062: Fleur 126
+    3300064: Fleur 127
+    3300066: Fleur 128
+    3300068: Fleur 129
+    3300070: Fleur 13
+    3300072: Fleur 130
+    3300074: Fleur 131
+    3300076: Fleur 132
+    3300078: Fleur 133
+    3300080: Fleur 134
+    3300082: Fleur 135
+    3300084: Fleur 136
+    3300086: Fleur 137
+    3300088: Fleur 138
+    3300090: Fleur 139
+    3300092: Fleur 14
+    3300094: Fleur 140
+    3300096: Fleur 141
+    3300098: Fleur 142
+    3300100: Fleur 143
+    3300102: Fleur 144
+    3300104: Fleur 145
+    3300106: Fleur 146
+    3300108: Fleur 147
+    3300110: Fleur 148
+    3300112: Fleur 149
+    3300114: Fleur 15
+    3300116: Fleur 150
+    3300118: Fleur 151
+    3300120: Fleur 152
+    3300122: Fleur 153
+    3300124: Fleur 154
+    3300126: Fleur 155
+    3300128: Fleur 156
+    3300130: Fleur 157
+    3300132: Fleur 158
+    3300134: Fleur 159
+    3300136: Fleur 16
+    3300138: Fleur 160
+    3300140: Fleur 161
+    3300142: Fleur 162
+    3300144: Fleur 163
+    3300146: Fleur 164
+    3300148: Fleur 165
+    3300150: Fleur 166
+    3300152: Fleur 167
+    3300154: Fleur 168
+    3300156: Fleur 169
+    3300158: Fleur 17
+    3300160: Fleur 170
+    3300162: Fleur 171
+    3300164: Fleur 172
+    3300166: Fleur 173
+    3300168: Fleur 174
+    3300170: Fleur 175
+    3300172: Fleur 176
+    3300174: Fleur 177
+    3300176: Fleur 178
+    3300178: Fleur 179
+    3300180: Fleur 18
+    3300182: Fleur 180
+    3300184: Fleur 19
+    3300186: Fleur 2
+    3300188: Fleur 20
+    3300190: Fleur 21
+    3300192: Fleur 22
+    3300194: Fleur 23
+    3300196: Fleur 24
+    3300198: Fleur 25
+    3300200: Fleur 26
+    3300202: Fleur 27
+    3300204: Fleur 28
+    3300206: Fleur 29
+    3300208: Fleur 3
+    3300210: Fleur 30
+    3300212: Fleur 31
+    3300214: Fleur 32
+    3300216: Fleur 33
+    3300218: Fleur 34
+    3300220: Fleur 35
+    3300222: Fleur 36
+    3300224: Fleur 37
+    3300226: Fleur 38
+    3300228: Fleur 39
+    3300230: Fleur 4
+    3300232: Fleur 40
+    3300234: Fleur 41
+    3300236: Fleur 42
+    3300238: Fleur 43
+    3300240: Fleur 44
+    3300242: Fleur 45
+    3300244: Fleur 46
+    3300246: Fleur 47
+    3300248: Fleur 48
+    3300250: Fleur 49
+    3300252: Fleur 5
+    3300254: Fleur 50
+    3300256: Fleur 51
+    3300258: Fleur 52
+    3300260: Fleur 53
+    3300262: Fleur 54
+    3300264: Fleur 55
+    3300266: Fleur 56
+    3300268: Fleur 57
+    3300270: Fleur 58
+    3300272: Fleur 59
+    3300274: Fleur 6
+    3300276: Fleur 60
+    3300278: Fleur 61
+    3300280: Fleur 62
+    3300282: Fleur 63
+    3300284: Fleur 64
+    3300286: Fleur 65
+    3300288: Fleur 66
+    3300290: Fleur 67
+    3300292: Fleur 68
+    3300294: Fleur 69
+    3300296: Fleur 7
+    3300298: Fleur 70
+    3300300: Fleur 71
+    3300302: Fleur 72
+    3300304: Fleur 73
+    3300306: Fleur 74
+    3300308: Fleur 75
+    3300310: Fleur 76
+    3300312: Fleur 77
+    3300314: Fleur 78
+    3300316: Fleur 79
+    3300318: Fleur 8
+    3300320: Fleur 80
+    3300322: Fleur 81
+    3300324: Fleur 82
+    3300326: Fleur 83
+    3300328: Fleur 84
+    3300330: Fleur 85
+    3300332: Fleur 86
+    3300334: Fleur 87
+    3300336: Fleur 88
+    3300338: Fleur 89
+    3300340: Fleur 9
+    3300342: Fleur 90
+    3300344: Fleur 91
+    3300346: Fleur 92
+    3300348: Fleur 93
+    3300350: Fleur 94
+    3300352: Fleur 95
+    3300354: Fleur 96
+    3300356: Fleur 97
+    3300358: Fleur 98
+    3300360: Fleur 99
+    3300362: //RootNode
+    3300364: Group 2
+    4300000: Mesh Fleur2014
+    4300002: Mesh Group 2
+    4300004: Mesh Fleur
+    4300006: Mesh Fleur
+    6400000: Fleur
+    6400002: Fleur 1
+    6400004: Fleur 10
+    6400006: Fleur 11
+    6400008: Fleur 12
+    6400010: Fleur 13
+    6400012: Fleur 14
+    6400014: Fleur 15
+    6400016: Fleur 16
+    6400018: Fleur 17
+    6400020: Fleur 18
+    6400022: Fleur 19
+    6400024: Fleur 2
+    6400026: Fleur 20
+    6400028: Fleur 21
+    6400030: Fleur 22
+    6400032: Fleur 23
+    6400034: Fleur 24
+    6400036: Fleur 25
+    6400038: Fleur 26
+    6400040: Fleur 27
+    6400042: Fleur 28
+    6400044: Fleur 29
+    6400046: Fleur 3
+    6400048: Fleur 30
+    6400050: Fleur 31
+    6400052: Fleur 32
+    6400054: Fleur 33
+    6400056: Fleur 34
+    6400058: Fleur 35
+    6400060: Fleur 36
+    6400062: Fleur 37
+    6400064: Fleur 38
+    6400066: Fleur 39
+    6400068: Fleur 4
+    6400070: Fleur 5
+    6400072: Fleur 6
+    6400074: Fleur 7
+    6400076: Fleur 8
+    6400078: Fleur 9
+    6400080: Fleur 40
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
